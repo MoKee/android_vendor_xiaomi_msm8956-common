@@ -311,7 +311,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.0 \
     libthermalclient \
     QtiTetherService \
-    com.qualcomm.location \
     colorservice \
     ims \
     imssettings
