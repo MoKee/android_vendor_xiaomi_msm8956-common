@@ -40,20 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/rampatch_tlv_2.1.tlv:system/vendor/firmware/rampatch_tlv_2.1.tlv \
     vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/rampatch_tlv_3.0.tlv:system/vendor/firmware/rampatch_tlv_3.0.tlv \
     vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/rampatch_tlv_3.2.tlv:system/vendor/firmware/rampatch_tlv_3.2.tlv \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.b00:system/vendor/firmware/venus-v1.b00 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.b01:system/vendor/firmware/venus-v1.b01 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.b02:system/vendor/firmware/venus-v1.b02 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.b03:system/vendor/firmware/venus-v1.b03 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.b04:system/vendor/firmware/venus-v1.b04 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.mbn:system/vendor/firmware/venus-v1.mbn \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus-v1.mdt:system/vendor/firmware/venus-v1.mdt \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/xiaomi/msm8956-common/proprietary/vendor/etc/permissions/com.qti.location.sdk.xml:system/vendor/etc/permissions/com.qti.location.sdk.xml \
     vendor/xiaomi/msm8956-common/proprietary/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/vendor/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/xiaomi/msm8956-common/proprietary/vendor/etc/permissions/com.qualcomm.location.xml:system/vendor/etc/permissions/com.qualcomm.location.xml \
