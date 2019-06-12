@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter kenzo hydrogen,$(TARGET_DEVICE)),)
+ifneq ($(filter helium kenzo hydrogen,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libthermalclient
